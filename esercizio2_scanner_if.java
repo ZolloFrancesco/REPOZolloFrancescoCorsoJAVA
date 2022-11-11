@@ -1,3 +1,4 @@
+// scrivere un programma stampi il minimo di due interi presi da tastiera.
 import java.util.Scanner;       // importo la classe Scanner della libreria util
 
 class principale {
