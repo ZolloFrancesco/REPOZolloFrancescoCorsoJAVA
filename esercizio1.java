@@ -15,6 +15,6 @@ class esercizio1 {
 
         if (bool1 || bool2) {
             System.out.println( somma + "\nEVVIVA!" );
-        }
-    }
-} // fine della classe
+        }   // fine dell'if
+    }       // fine del main
+}           // fine della classe
