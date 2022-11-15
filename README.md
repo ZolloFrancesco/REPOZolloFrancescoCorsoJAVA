@@ -13,3 +13,5 @@ aggiunto file "CicliEIteratori_dasolo.java" (Francesco Zollo) - 14/11/2022
 aggiunto file "ordinamento_array.java" (Francesco Zollo) - 15/11/2022
 
 aggiunto file "ArrayEsercizio.java" (Francesco Zollo) - 15/11/2022
+
+aggiunto file "array_list.java" (Francesco Zollo) - 15/11/2022
