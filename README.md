@@ -17,3 +17,5 @@ aggiunto file "ArrayEsercizio.java" (Francesco Zollo) - 15/11/2022
 aggiunto file "array_list.java" (Francesco Zollo) - 15/11/2022
 
 aggiunto file "EsercizioQuizzone.kt" (Francesco Zollo) - 22/11/2022
+
+rimosso file "EsercizioQuizzone.kt" (Francesco Zollo) - 23/11/2022
